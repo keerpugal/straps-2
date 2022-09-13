@@ -1,0 +1,59 @@
+
+.grad2 {
+    height: 270px;
+    width: 270px;
+    background-image: radial-gradient(circle, red, rgb(87, 16, 218), rgb(171, 39, 223));
+    border-radius:500px;
+    margin-top: 130px;
+
+ 
+  }
+  .dot{
+    margin-top:-20px;
+  
+  }
+.book{
+  height:250px;
+  margin-top: 150px;
+  background-color: rgb(85, 29, 158);
+}
+.rounded{
+  
+  width:75;
+  height:75px;
+  margin-top:-58px;
+  
+}
+.grad3 {
+  height: 270px;
+  width: 270px;
+  background-image: radial-gradient(circle, red, rgb(87, 16, 218), rgb(171, 39, 223));
+  border-radius:500px;
+  margin-top: 100px;
+
+}
+
+.second{
+
+  margin-left: 75px;
+  margin-top: -90px;
+  width:200px;
+}
+.img{
+  height: 600px;
+  position: relative;
+}
+.text-start{
+  position: absolute;
+  margin-top: -420px;
+}
+.x{
+  margin-top:-460px;
+
+}
+.dott
+{
+  margin-right:-40px;
+  width: 30px;
+  margin-top: -400px;
+}
